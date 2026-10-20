@@ -1,0 +1,14 @@
+[
+  {
+    "file": "R/bivariate_skewt_standard_my_vs_exact_numint.R",
+    "original_sha256": "d968ca92d06ec27c3a245d81bad20621921ca34c67b1d906f1b0eef13e51f275",
+    "prepared_sha256": "d968ca92d06ec27c3a245d81bad20621921ca34c67b1d906f1b0eef13e51f275",
+    "change": "원본 바이트 유지"
+  },
+  {
+    "file": "R/bivariate_skewt_general_my_vs_exact_numint.R",
+    "original_sha256": "77336011a5dac6663fdeec10c35cb0e00f4e81d81e13d67bf88f744d5e9184fe",
+    "prepared_sha256": "77336011a5dac6663fdeec10c35cb0e00f4e81d81e13d67bf88f744d5e9184fe",
+    "change": "원본 바이트 유지"
+  }
+]
